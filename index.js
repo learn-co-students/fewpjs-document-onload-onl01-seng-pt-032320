@@ -1,5 +1,5 @@
 let theDomm = document.addEventListener("DOMContentLoaded", 
-function ("id"){
+function (){
     console.log("This is really cool!");
 });
 
